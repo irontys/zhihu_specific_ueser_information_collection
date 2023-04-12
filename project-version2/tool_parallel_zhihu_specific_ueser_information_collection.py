@@ -1009,5 +1009,3 @@ if __name__ == '__main__':
         print("-------------------------------------------")
     
     print('Done')
-
-#  python3 .\tool_parallel_zhihu_specific_ueser_information_collection.py --login_mode=0 --login_username=18447613573 --login_password=wangjiaxi@
